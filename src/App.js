@@ -41,12 +41,12 @@ class App extends Component {
                 </Col>
                 <Col className="m6 s12">
                   <div className="icon-block">
-                      <h2 className="center light-blue-text"><Icon>group</Icon></h2>
-                      <h5 className="center">Easy for everyone</h5>
-                      <p className="light">
-                        More svada text....
-                      </p>
-                    </div>
+                    <h2 className="center light-blue-text"><Icon>group</Icon></h2>
+                    <h5 className="center">Easy for everyone</h5>
+                    <p className="light">
+                      More svada text....
+                    </p>
+                  </div>
                 </Col>
               </Row>
             </Container>
@@ -59,19 +59,6 @@ class App extends Component {
           </Footer>
         </Container>
       </div>
-
-      // <div className="App">
-      //   <header className="App-header">
-      //     <img src={logo} className="App-logo" alt="logo" />
-      //     <h1 className="App-title">Welcome to React</h1>
-      //   </header>
-      //   <p className="App-intro">
-      //     To get started, edit <code>src/App.js</code> and save to reload.
-      //   </p>
-      //   <Footer copyrights="&copy 2018 Naglfar">
-      //     <h5 className="black-text">Footer content</h5>
-      //   </Footer>
-      // </div>
     );
   }
 }
